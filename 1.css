@@ -4,5 +4,21 @@ body {
 
 h1{
 	text-align: center;
+
+}
+
+.anhavatar {
 	
+	
+}
+
+div.anhavatar{
+	text-align: center;
+	height: 300px;
+	width: 200px;
+
+}
+
+div.anhavatar img{
+	height: 100%;
 }

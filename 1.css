@@ -2,6 +2,14 @@ body {
 	font-family: "segoe ui"
 }
 
+.khoikinhnghiem h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: brown;
+    text-transform: uppercase;
+    /* text-decoration: underline; */
+}
+
 a.nuthire.btn.btn-primary {
     width: 180px;
     background: black;

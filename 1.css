@@ -2,6 +2,12 @@ body {
 	font-family: "segoe ui"
 }
 
+.khung {
+    background: #ffd8a0;
+    border-radius: 2%;
+    color: #3d0101;
+}
+
 .khoikinhnghiem h2 {
     margin-top: 30px;
     margin-bottom: 30px;
